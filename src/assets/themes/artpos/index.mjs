@@ -19,7 +19,7 @@ export default (v = {}) => {
 
     '.Footer': {
       position: 'fixed',
-      right: 0,
+      right: '1em',
       bottom: 0,
       width: 'auto',
       padding: 0,
