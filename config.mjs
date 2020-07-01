@@ -5,4 +5,6 @@ export default {
   PUBLIC: 'docs',
   CNAME: 'artpos.org',
   THEME: 'artpos',
+
+  IGNORED_STATIC: 'xcf',
 }
