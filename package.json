@@ -32,11 +32,11 @@
     "url": "https://github.com/artpos/artpos.org/issues"
   },
   "dependencies": {
-    "@magic/core": "0.0.81"
+    "@magic/core": "0.0.89"
   },
   "devDependencies": {
-    "@magic/format": "0.0.11",
-    "@magic/test": "0.1.50"
+    "@magic/format": "0.0.14",
+    "@magic/test": "0.1.53"
   },
   "keywords": [
     "magic",
@@ -46,6 +46,10 @@
     {
       "name": "jascha ehrenreich",
       "github": "jaeh"
+    },
+    {
+      "name": "daniela weiss",
+      "github": "mslitto"
     }
   ]
 }
