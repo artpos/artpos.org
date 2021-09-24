@@ -6,6 +6,7 @@
   "description": "artpos.org homepage.",
   "license": "AGPL-3.0",
   "homepage": "artpos.org",
+  "type": "module",
   "engines": {
     "node": ">=14.2.0"
   },
