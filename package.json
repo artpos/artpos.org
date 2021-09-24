@@ -32,11 +32,11 @@
     "url": "https://github.com/artpos/artpos.org/issues"
   },
   "dependencies": {
-    "@magic/core": "0.0.89"
+    "@magic/core": "0.0.130"
   },
   "devDependencies": {
-    "@magic/format": "0.0.14",
-    "@magic/test": "0.1.53"
+    "@magic/format": "0.0.30",
+    "@magic/test": "0.1.75"
   },
   "keywords": [
     "magic",
